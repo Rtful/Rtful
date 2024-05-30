@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />       
     <img src="https://img.shields.io/badge/Spring%20Boot-6aac3d?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />    
     <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />     
-    <img src="https://img.shields.io/badge/SCSS-b86894?style=for-the-badge&logo=sass" alt="SCSS" />  
+    <img src="https://img.shields.io/badge/SCSS-b86894?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />  
 </div>
 <div align="center">
     <h2>3D Modeling</h2>
