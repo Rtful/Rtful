@@ -20,6 +20,7 @@
 </div>
 <div align="center">
     <h2>Other Languages</h2>
+    <p>Languages that don't fit the description of a programming language but are used alongside one. Includes Markup, Presentation and Query Languages</p>
     <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=e44d26" alt="HTML" />  
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
     <img src="https://img.shields.io/badge/CSS-3695d1?style=for-the-badge&logo=css3" alt="CSS" />  
