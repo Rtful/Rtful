@@ -51,8 +51,10 @@
     <img src="https://img.shields.io/badge/endeavourOS-7F7FFF?style=for-the-badge&logo=endeavourOS&logoColor=white" alt="EndeavourOS" />
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <br>
     <img src="https://img.shields.io/badge/Windows 10-0078D4?style=for-the-badge&logo=windows10&logoColor=white" alt="Windows 10" />
     <img src="https://img.shields.io/badge/Windows 11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
+    <br>
     <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" />
 </div>
 <div align="center">
